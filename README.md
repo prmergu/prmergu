@@ -1,6 +1,6 @@
 ### <h1>Olá Sou Paulo Ricardo 👋 </h1>
 <hr/>
-<h2>Estudante de Programação com foco em FrontEnd.</h2>
+<h2>Programação com foco em FrontEnd.</h2>
 
  <h3>🧠Eu estou estudando:</h3>
 <div style="display: inline_block">
